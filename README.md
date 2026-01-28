@@ -31,6 +31,6 @@ Computer Science student building product-focused software across **full-stack w
 Internships / research opportunities in **software engineering**, **product engineering**, or **applied AI/OCR**.
 
 ## 📫 Contact
-- LinkedIn: [Here](www.linkedin.com/in/tugba-irem-demirci-6ab229327)
+- LinkedIn: [Here](https://www.linkedin.com/in/tugba-irem-demirci-6ab229327/)
 - Devpost: [Here](https://devpost.com/iremdmrc?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)
-- Email: [Here](iremdemircii61@gmail.com)
+- Email: iremdemircii61@gmail.com
