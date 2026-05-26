@@ -3,11 +3,11 @@
 Computer Science student building product-focused software across **full-stack web**, **OCR/document automation**, and **UI/UX-driven experiences**. I enjoy turning real-world problems into clean, usable tools.
 
 ## 🏆 Achievements
+- **Winner at HackHCC 2026**
+  - Built Framewise, an AI-powered video learning platform awarded Best Use of AI and Best Use of MongoDB.
+    
 - **2nd Place — University Datathon**
   - Built a data-driven web application analyzing real-world datasets and delivering actionable insights through interactive dashboards.
- 
-- ** Winner at HackHCC 2026**
-  - Built Framewise, an AI-powered video learning platform awarded Best Use of AI and Best Use of MongoDB.
 
 ## 🧰 Skills
 **Languages:** JavaScript, Python, Java, SQL, C, Swift (familiar)  
